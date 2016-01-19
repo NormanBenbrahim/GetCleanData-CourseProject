@@ -17,3 +17,10 @@ Create a script called `run_analysis.R` that should do the following:
 3. Use descriptive activity names to name the activities in the data set
 4. Appropriately label the data set with descriptive variable names
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject
+
+# The files contained in this repo
+
+* `.gitignore`: Specifies which of the folders in my local directory to ignore, specifically it ignores the large data files
+* `README.md`: This file
+* `run_analysis.R`: The R code to run the complete analysis, from data download to final step. It should be self sufficient, i.e. if you download the file and run it in R it should complete the entire project
+* `Codebook.md`: The codebook describing all the variables in the resulting dataset
