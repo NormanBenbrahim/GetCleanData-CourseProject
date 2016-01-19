@@ -6,7 +6,7 @@ This is the repo that contains my submission for the Data Science "Getting and C
 
 One of the most exciting areas in all of data science right now is wearable computing - see for example [this](http://www.insideactivitytracking.com/data-science-activity-tracking-and-the-battle-for-the-worlds-top-sports-brand/) article. Companies like Fitbit, Nike, and Jawbone Up are racing to develop the most advanced algorithms to attract new users. The data linked to from the course website represent data collected from the accelerometers from the Samsung Galaxy S smartphone.
 
-A full description of the dataset can be found [here](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones#) and the full dataset can be download by clicking [here]()
+A full description and download link for the dataset can be found [here](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones#) 
 
 # The tasks
 
