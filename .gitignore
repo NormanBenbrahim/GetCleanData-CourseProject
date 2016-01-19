@@ -2,3 +2,4 @@ data/
 .Rhistory
 README.html
 *.zip
+.DS_Store
