@@ -82,6 +82,6 @@ var_names <- sub("^t", "time_", var_names)
 names(df) <- var_names
 
 # save the resulting dataset as csv file
-out_name <- "tidy_dataset.txt"
-write.table(df, out_name, row.name=F)
+out_name <- "./tidy_dataset.txt"
+write.table(df, out_name, row.names = FALSE)
 print("Saved resulting tidy dataset in file './tidy_dataset.txt'")
