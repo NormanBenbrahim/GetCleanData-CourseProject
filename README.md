@@ -24,3 +24,4 @@ Create a script called `run_analysis.R` that should do the following:
 * `README.md`: This file
 * `run_analysis.R`: The R code to run the complete analysis, from data download to final step. It should be self sufficient, i.e. if you download the file and run it in R it should complete the entire project on your local machine
 * `Codebook.md`: The codebook describing all the variables in the resulting dataset
+* `tidy_dataset.csv`: The resulting tidy dataset from running the script `run_analysis.R`
