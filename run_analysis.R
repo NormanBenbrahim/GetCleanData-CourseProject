@@ -84,4 +84,4 @@ names(df) <- var_names
 # save the resulting dataset as csv file
 out_name <- "tidy_dataset.csv"
 write.table(df, out_name, sep = ",")
-print("Saved resulting tidy dataset in file 'tidy_dataset.csv'")
+print("Saved resulting tidy dataset in file './tidy_dataset.csv'")
