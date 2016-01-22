@@ -7,7 +7,7 @@ library(dplyr)
 
 # create our data folder
 if (!file.exists("./data")) {
-    print("data folder not available, creating it now...")
+    print("Data folder not created, creating it now...")
     dir.create("./data")
 }
 
@@ -68,6 +68,9 @@ final <- cbind(s, y, x)
 # grab only mean and standard deviation
 final <- final[, sub_col_names]
 
+# add subject and activity labels
+final <- cbind(s, y, final)
+
 # tidy up the names
 final_names <- names(final)
 final_names <- sub("-mean\\(\\)", "_mean", final_names)
@@ -79,5 +82,6 @@ final_names <- sub("-Z", "_z", final_names)
 # add new names
 names(final) <- final_names
 
+# write the dataset
 write.table(final, "./tidy_dataset.txt", row.names = FALSE)
 print("Saved resulting tidy dataset in file './tidy_dataset.txt'")
