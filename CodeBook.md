@@ -10,98 +10,98 @@ These correspond to the prefix of each variable, and tells us that the variable 
 
 A full list of the 48 observations are found below:
 
-1. `time_BodyAcc_mean_x`      
+1. `time_BodyAcc_mean_X`      
 
-2. `time_BodyAcc_mean_y`
+2. `time_BodyAcc_mean_Y`
 
-3. `time_BodyAcc_mean_z`
+3. `time_BodyAcc_mean_Z`
 
-4. `time_BodyAcc_std_x`
+4. `time_BodyAcc_std_X`
 
-5. `time_BodyAcc_std_y`
+5. `time_BodyAcc_std_Y`
 
-6. `time_BodyAcc_std_z`
+6. `time_BodyAcc_std_Z`
 
-7. `time_GravityAcc_mean_x`  
+7. `time_GravityAcc_mean_X`  
 
-8. `time_GravityAcc_mean_y`  
+8. `time_GravityAcc_mean_Y`  
 
-9.`time_GravityAcc_mean_z`   
+9.`time_GravityAcc_mean_Z`   
 
-10. `time_GravityAcc_std_x`    
+10. `time_GravityAcc_std_X`    
 
-11. `time_GravityAcc_std_y`    
+11. `time_GravityAcc_std_Y`    
 
-12. `time_GravityAcc_std_z`   
+12. `time_GravityAcc_std_Z`   
 
-13. `time_BodyAccJerk_mean_x`  
+13. `time_BodyAccJerk_mean_X`  
 
-14. `time_BodyAccJerk_mean_y`  
+14. `time_BodyAccJerk_mean_Y`  
 
-15. `time_BodyAccJerk_mean_z`  
+15. `time_BodyAccJerk_mean_Z`  
 
-16. `time_BodyAccJerk_std_x`  
+16. `time_BodyAccJerk_std_X`  
 
-17. `time_BodyAccJerk_std_y`   
+17. `time_BodyAccJerk_std_Y`   
 
-18. `time_BodyAccJerk_std_z`   
+18. `time_BodyAccJerk_std_Z`   
 
-19. `time_BodyGyro_mean_x`     
+19. `time_BodyGyro_mean_X`     
 
-20. `time_BodyGyro_mean_y`    
+20. `time_BodyGyro_mean_Y`    
 
-21. `time_BodyGyro_mean_z`     
+21. `time_BodyGyro_mean_Z`     
 
-22. `time_BodyGyro_std_x`      
+22. `time_BodyGyro_std_X`      
 
-23. `time_BodyGyro_std_y`      
+23. `time_BodyGyro_std_Y`      
 
-24. `time_BodyGyro_std_z`     
+24. `time_BodyGyro_std_Z`     
 
-25. `time_BodyGyroJerk_mean_x` 
+25. `time_BodyGyroJerk_mean_X` 
 
-26. `time_BodyGyroJerk_mean_y` 
+26. `time_BodyGyroJerk_mean_Y` 
 
-27. `time_BodyGyroJerk_mean_z` 
+27. `time_BodyGyroJerk_mean_Z` 
 
-28. `time_BodyGyroJerk_std_x` 
+28. `time_BodyGyroJerk_std_X` 
 
-29. `time_BodyGyroJerk_std_y`  
+29. `time_BodyGyroJerk_std_Y`  
 
-30. `time_BodyGyroJerk_std_z`  
+30. `time_BodyGyroJerk_std_Z`  
 
-31. `freq_BodyAcc_mean_x`      
+31. `freq_BodyAcc_mean_X`      
 
-32. `freq_BodyAcc_mean_y`     
+32. `freq_BodyAcc_mean_Y`     
 
-33. `freq_BodyAcc_mean_z`      
+33. `freq_BodyAcc_mean_Z`      
 
-34. `freq_BodyAcc_std_x`
+34. `freq_BodyAcc_std_X`
 
-35. `freq_BodyAcc_std_y`
+35. `freq_BodyAcc_std_Y`
 
-36. `freq_BodyAcc_std_z`      
+36. `freq_BodyAcc_std_Z`      
 
-37. `freq_BodyAccJerk_mean_x`  
+37. `freq_BodyAccJerk_mean_X`  
 
-38. `freq_BodyAccJerk_mean_y`  
+38. `freq_BodyAccJerk_mean_Y`  
 
-39. `freq_BodyAccJerk_mean_z`  
+39. `freq_BodyAccJerk_mean_Z`  
 
-40. `freq_BodyAccJerk_std_x`  
+40. `freq_BodyAccJerk_std_X`  
 
-41. `freq_BodyAccJerk_std_y`   
+41. `freq_BodyAccJerk_std_Y`   
 
-42. `freq_BodyAccJerk_std_z`   
+42. `freq_BodyAccJerk_std_Z`   
 
-43. `freq_BodyGyro_mean_x`     
+43. `freq_BodyGyro_mean_X`     
 
-44. `freq_BodyGyro_mean_y`    
+44. `freq_BodyGyro_mean_Y`    
 
-45. `freq_BodyGyro_mean_z`     
+45. `freq_BodyGyro_mean_Z`     
 
-46. `freq_BodyGyro_std_x`      
+46. `freq_BodyGyro_std_X`      
 
-47. `freq_BodyGyro_std_y`      
+47. `freq_BodyGyro_std_Y`      
 
-48. `freq_BodyGyro_std_z`  
+48. `freq_BodyGyro_std_Z`  
